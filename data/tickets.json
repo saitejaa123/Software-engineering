@@ -1,0 +1,20 @@
+[
+  {
+    "ticket_id": "TKT-1001",
+    "customer_id": "CUST-90",
+    "subject": "Unable to login",
+    "description": "Login failed after OTP verification and I cannot access my account"
+  },
+  {
+    "ticket_id": "TKT-1002",
+    "customer_id": "CUST-12",
+    "subject": "Wrong charge on invoice",
+    "description": "My subscription invoice has an unexpected payment charge"
+  },
+  {
+    "ticket_id": "TKT-1003",
+    "customer_id": "CUST-77",
+    "subject": "Package delivery delay",
+    "description": "Shipment tracking has not updated and delivery is delayed"
+  }
+]

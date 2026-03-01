@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Aisha",
+    "expertise": ["billing", "general"],
+    "solved_count": 180,
+    "review_score": 4.7,
+    "active_tickets": 2
+  },
+  {
+    "name": "Ravi",
+    "expertise": ["technical", "authentication"],
+    "solved_count": 220,
+    "review_score": 4.5,
+    "active_tickets": 3
+  },
+  {
+    "name": "Neha",
+    "expertise": ["shipping", "general"],
+    "solved_count": 140,
+    "review_score": 4.8,
+    "active_tickets": 1
+  }
+]
